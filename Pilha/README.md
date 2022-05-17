@@ -1,6 +1,6 @@
 # <strong>Pilha</strong> 
 ## Introdução 
-Desenvolvi esses projetos na Universidade Municipal de São Caetano do Sul, se trata de estrutura de dados .
+Desenvolvi esses projetos na Universidade Municipal de São Caetano do Sul, se trata de estrutura de dados LIFO.
 
   <img src="https://github.com/GabrielBielawski1/estudo-html/blob/main/img/introdu%C3%A7%C3%A3o_projeto.png/"/>
   
